@@ -1,4 +1,4 @@
-# VHHN-JSA01-Lesson-4
+# Local Storage Basic Exercises
 
 ## Exercises 1
 Store you first name, last name, age, country, city in your browser localStorage.
